@@ -1,0 +1,4 @@
+migration/
+.env
+public/
+*.rest
